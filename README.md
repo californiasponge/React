@@ -1,2 +1,2 @@
-# react-native
-code snippets
+# react & react-native
+react and react-native code snippets
